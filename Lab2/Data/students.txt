@@ -1,0 +1,45 @@
+﻿1, Elev1 , Scoala Gimnaziala “Horea”  
+2, Elev2 , Scoala Gimnaziala “Horea”  
+3, Elev3 , Scoala Gimnaziala “Horea”  
+4, Elev4 , Scoala Gimnaziala “Horea”  
+5, Elev5 , Scoala Gimnaziala “Horea”  
+6, Elev6 , Scoala Gimnaziala “Horea”  
+7, Elev7 , Scoala Gimnaziala “Horea”  
+8, Elev8 , Scoala Gimnaziala “Horea”  
+9, Elev9 , Scoala Gimnaziala “Horea”  
+10, Elev10 , Scoala Gimnaziala “Horea”  
+11, Elev11 , Scoala Gimnaziala “Horea”  
+12, Elev12 , Scoala Gimnaziala “Horea”  
+13, Elev13 , Scoala Gimnaziala “Horea”  
+14, Elev14 , Scoala Gimnaziala “Horea”  
+15, Elev15, Scoala Gimnaziala “Horea”  
+16, Student1 , Scoala Gimnaziala "Octavian Goga"  
+17, Student2 , Scoala Gimnaziala "Octavian Goga"  
+18, Student3 , Scoala Gimnaziala "Octavian Goga"  
+19, Student4 , Scoala Gimnaziala "Octavian Goga"  
+20, Student5 , Scoala Gimnaziala "Octavian Goga"  
+21, Student6 , Scoala Gimnaziala "Octavian Goga"  
+22, Student7 , Scoala Gimnaziala "Octavian Goga"  
+23, Student8 , Scoala Gimnaziala "Octavian Goga"  
+24, Student9 , Scoala Gimnaziala "Octavian Goga"  
+25, Student10 , Scoala Gimnaziala "Octavian Goga"  
+26, Student11 , Scoala Gimnaziala "Octavian Goga"  
+27, Student12 , Scoala Gimnaziala "Octavian Goga"  
+28, Student13 , Scoala Gimnaziala "Octavian Goga"  
+29, Student14 , Scoala Gimnaziala "Octavian Goga"  
+30, Student15 , Scoala Gimnaziala "Octavian Goga"  
+31, Nume1 , Liceul Teoretic "Lucian Blaga"  
+32, Nume2 , Liceul Teoretic "Lucian Blaga"  
+33, Nume3 , Liceul Teoretic "Lucian Blaga"  
+34, Nume4 , Liceul Teoretic "Lucian Blaga"  
+35, Nume5 , Liceul Teoretic "Lucian Blaga"  
+36, Nume6 , Liceul Teoretic "Lucian Blaga"  
+37, Nume7 , Liceul Teoretic "Lucian Blaga"  
+38, Nume8 , Liceul Teoretic "Lucian Blaga"  
+39, Nume9 , Liceul Teoretic "Lucian Blaga"  
+40, Nume10 , Liceul Teoretic "Lucian Blaga"  
+41, Nume11 , Liceul Teoretic "Lucian Blaga"  
+42, Nume12 , Liceul Teoretic "Lucian Blaga"  
+43, Nume13 , Liceul Teoretic "Lucian Blaga"  
+44, Nume14 , Liceul Teoretic "Lucian Blaga"  
+45, Nume15 , Liceul Teoretic "Lucian Blaga"  

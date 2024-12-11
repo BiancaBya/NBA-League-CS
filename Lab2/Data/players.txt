@@ -1,0 +1,45 @@
+﻿1, Elev1 , Scoala Gimnaziala “Horea”, 1
+2, Elev2 , Scoala Gimnaziala “Horea”, 1
+3, Elev3 , Scoala Gimnaziala “Horea”  , 1
+4, Elev4 , Scoala Gimnaziala “Horea”  , 1
+5, Elev5 , Scoala Gimnaziala “Horea”  , 1
+6, Elev6 , Scoala Gimnaziala “Horea”  , 1
+7, Elev7 , Scoala Gimnaziala “Horea”  , 1
+8, Elev8 , Scoala Gimnaziala “Horea”  , 1
+9, Elev9 , Scoala Gimnaziala “Horea”  , 1
+10, Elev10 , Scoala Gimnaziala “Horea”  , 1
+11, Elev11 , Scoala Gimnaziala “Horea”  , 1
+12, Elev12 , Scoala Gimnaziala “Horea”  , 1
+13, Elev13 , Scoala Gimnaziala “Horea”  , 1
+14, Elev14 , Scoala Gimnaziala “Horea”  , 1
+15, Elev15, Scoala Gimnaziala “Horea”  , 1
+16, Student1 , Scoala Gimnaziala "Octavian Goga" , 2
+17, Student2 , Scoala Gimnaziala "Octavian Goga" , 2
+18, Student3 , Scoala Gimnaziala "Octavian Goga" , 2
+19, Student4 , Scoala Gimnaziala "Octavian Goga"  , 2
+20, Student5 , Scoala Gimnaziala "Octavian Goga"  , 2
+21, Student6 , Scoala Gimnaziala "Octavian Goga"  , 2
+22, Student7 , Scoala Gimnaziala "Octavian Goga"  , 2
+23, Student8 , Scoala Gimnaziala "Octavian Goga"  , 2
+24, Student9 , Scoala Gimnaziala "Octavian Goga"  , 2
+25, Student10 , Scoala Gimnaziala "Octavian Goga"  , 2
+26, Student11 , Scoala Gimnaziala "Octavian Goga"  , 2
+27, Student12 , Scoala Gimnaziala "Octavian Goga"  , 2
+28, Student13 , Scoala Gimnaziala "Octavian Goga"  , 2
+29, Student14 , Scoala Gimnaziala "Octavian Goga"  , 2
+30, Student15 , Scoala Gimnaziala "Octavian Goga"  , 2
+31, Nume1 , Liceul Teoretic "Lucian Blaga"  , 3
+32, Nume2 , Liceul Teoretic "Lucian Blaga"  , 3
+33, Nume3 , Liceul Teoretic "Lucian Blaga"  , 3
+34, Nume4 , Liceul Teoretic "Lucian Blaga"  , 3
+35, Nume5 , Liceul Teoretic "Lucian Blaga"  , 3
+36, Nume6 , Liceul Teoretic "Lucian Blaga"  , 3
+37, Nume7 , Liceul Teoretic "Lucian Blaga"  , 3
+38, Nume8 , Liceul Teoretic "Lucian Blaga"  , 3
+39, Nume9 , Liceul Teoretic "Lucian Blaga"  , 3
+40, Nume10 , Liceul Teoretic "Lucian Blaga"  , 3
+41, Nume11 , Liceul Teoretic "Lucian Blaga"  , 3
+42, Nume12 , Liceul Teoretic "Lucian Blaga"  , 3
+43, Nume13 , Liceul Teoretic "Lucian Blaga"  , 3
+44, Nume14 , Liceul Teoretic "Lucian Blaga"  , 3
+45, Nume15 , Liceul Teoretic "Lucian Blaga"  , 3

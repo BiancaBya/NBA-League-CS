@@ -1,0 +1,45 @@
+﻿1, Elev1 , Scoala Gimnaziala “Horea”, 1, 1, 10, Participant   
+2, Elev2 , Scoala Gimnaziala “Horea”, 1, 1, 5, Participant   
+3, Elev3 , Scoala Gimnaziala “Horea”  , 1, 1, 2, Participant 
+4, Elev4 , Scoala Gimnaziala “Horea”  , 1, 1, 10, Participant 
+5, Elev5 , Scoala Gimnaziala “Horea”  , 1, 1, 0, Substitute 
+6, Elev6 , Scoala Gimnaziala “Horea”  , 1, 1, 0, Substitute  
+7, Elev7 , Scoala Gimnaziala “Horea”  , 1, 2, 1, Substitute 
+8, Elev8 , Scoala Gimnaziala “Horea”  , 1, 2, 10, Participant 
+9, Elev9 , Scoala Gimnaziala “Horea”  , 1, 2, 10, Participant 
+10, Elev10 , Scoala Gimnaziala “Horea”  , 1, 2, 8, Participant 
+11, Elev11 , Scoala Gimnaziala “Horea”  , 1, 2, 9, Participant 
+12, Elev12 , Scoala Gimnaziala “Horea”  , 1, 2, 2, Participant 
+13, Elev13 , Scoala Gimnaziala “Horea”  , 1, 2, 3, Participant 
+14, Elev14 , Scoala Gimnaziala “Horea”  , 1, 2, 5, Participant 
+15, Elev15, Scoala Gimnaziala “Horea”  , 1, 2, 4, Participant 
+16, Student1 , Scoala Gimnaziala "Octavian Goga" , 2, 1, 10, Participant   
+17, Student2 , Scoala Gimnaziala "Octavian Goga" , 2, 1, 5, Participant 
+18, Student3 , Scoala Gimnaziala "Octavian Goga" , 2, 1, 4, Substitute 
+19, Student4 , Scoala Gimnaziala "Octavian Goga"  , 2, 1, 0, Participant 
+20, Student5 , Scoala Gimnaziala "Octavian Goga"  , 2, 1, 2, Substitute
+21, Student6 , Scoala Gimnaziala "Octavian Goga"  , 2, 1, 5, Participant 
+22, Student7 , Scoala Gimnaziala "Octavian Goga"  , 2, 1, 9, Participant 
+23, Student8 , Scoala Gimnaziala "Octavian Goga"  , 2, 1, 1, Participant 
+24, Student9 , Scoala Gimnaziala "Octavian Goga"  , 2, 1, 2, Participant 
+25, Student10 , Scoala Gimnaziala "Octavian Goga"  , 2, 3, 5, Participant
+26, Student11 , Scoala Gimnaziala "Octavian Goga"  , 2, 3, 5, Participant
+27, Student12 , Scoala Gimnaziala "Octavian Goga"  , 2, 3, 2, Substitute
+28, Student13 , Scoala Gimnaziala "Octavian Goga"  , 2, 3, 4, Participant
+29, Student14 , Scoala Gimnaziala "Octavian Goga"  , 2, 3, 2, Participant
+30, Student15 , Scoala Gimnaziala "Octavian Goga"  , 2, 3, 1, Participant
+31, Nume1 , Liceul Teoretic "Lucian Blaga"  , 3, 2, 10, Participant
+32, Nume2 , Liceul Teoretic "Lucian Blaga"  , 3, 2, 1, Participant
+33, Nume3 , Liceul Teoretic "Lucian Blaga"  , 3, 2, 2, Participant
+34, Nume4 , Liceul Teoretic "Lucian Blaga"  , 3, 2, 7, Participant
+35, Nume5 , Liceul Teoretic "Lucian Blaga"  , 3, 2, 10, Substitute
+36, Nume6 , Liceul Teoretic "Lucian Blaga"  , 3, 2, 6, Participant
+37, Nume7 , Liceul Teoretic "Lucian Blaga"  , 3, 2, 4, Substitute
+38, Nume8 , Liceul Teoretic "Lucian Blaga"  , 3, 2, 5, Participant
+39, Nume9 , Liceul Teoretic "Lucian Blaga"  , 3, 2, 10, Participant
+40, Nume10 , Liceul Teoretic "Lucian Blaga"  , 3, 2, 10, Substitute
+41, Nume11 , Liceul Teoretic "Lucian Blaga"  , 3, 3, 5, Participant
+42, Nume12 , Liceul Teoretic "Lucian Blaga"  , 3, 3, 5, Participant
+43, Nume13 , Liceul Teoretic "Lucian Blaga"  , 3, 3, 5, Participant
+44, Nume14 , Liceul Teoretic "Lucian Blaga"  , 3, 3, 5, Participant
+45, Nume15 , Liceul Teoretic "Lucian Blaga"  , 3, 3, 5, Participant
