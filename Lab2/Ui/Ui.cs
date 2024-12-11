@@ -63,15 +63,17 @@ public class Ui
                         var firstTeamName = Console.ReadLine();
                         Console.WriteLine("Enter second team's name : ");
                         var secondTeamName = Console.ReadLine();
+                        Console.WriteLine("Enter team's name : ");
+                        var teamsName = Console.ReadLine();
                         
-                        if (firstTeamName != null && secondTeamName != null)
+                        if (firstTeamName != null && secondTeamName != null && teamsName != null)
                         {
                             Game? game = Service.FindGameByTeamsNames(firstTeamName, secondTeamName);
                             if (game != null)
                             {
-                                Team? team = Service.FindTeamByName(firstTeamName.Trim());
+                                Team? team = Service.FindTeamByName(teamsName.Trim());
                                 var activePlayers = Service.GetActivePlayersFromGame(game, team);
-                                Console.WriteLine($"Team: {firstTeamName}, Players: ");
+                                Console.WriteLine($"Team: {teamsName}, Players: ");
                                 foreach (var player in activePlayers)
                                 {
                                     Console.WriteLine(player + " ");
