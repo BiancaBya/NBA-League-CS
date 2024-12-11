@@ -66,7 +66,7 @@ public class Ui
                         Console.WriteLine("Enter team's name : ");
                         var teamsName = Console.ReadLine();
                         
-                        if (firstTeamName != null && secondTeamName != null && teamsName != null)
+                        if (firstTeamName != null && secondTeamName != null && teamsName != null && (firstTeamName.Equals(teamsName) || secondTeamName.Equals(teamsName)))
                         {
                             Game? game = Service.FindGameByTeamsNames(firstTeamName, secondTeamName);
                             if (game != null)
